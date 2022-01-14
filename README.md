@@ -16,7 +16,7 @@
    ##
     
     
-  <a href="https://www.youtube.com/channel/UCNVobmgZPXBL_1ujL1pI7hQ" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   
   <a href="https://www.instagram.com/po_kebrao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/cleberson-oliveira-32b818211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
